@@ -1,0 +1,113 @@
+***********2023-Jan-20*********
+ver 1.0.0
+Python Program to control Track Logic Controller(RS232) using Mqtt
+Mqtt user File added for testing TLC over Mqtt messages.
+
+***********2023-Jan-31*********
+ver 1.0.1
+AXLE Weights are Checked for confirming the weighment completion
+
+***********2023-Feb-01*********
+ver 1.0.2
+Functions are removed which are not used.
+
+***********2023-Feb-01*********
+ver 1.0.3
+Loco Sensing Added
+
+***********2023-Feb-01*********
+ver 1.0.4
+Input Status and Output Status Mqtt topics are added
+
+***********2023-Feb-02*********
+ver 1.0.5
+Unknown Vechile detection added
+
+
+***********2023-Feb-03*********
+ver 1.0.6
+Code Updated
+
+
+***********2023-Feb-20*********
+ver 1.0.7
+Live Wagon Details send to Mqtt
+
+***********2023-Feb-25*********
+ver 1.0.8
+Axle to be eliminated added in init command
+
+***********2023-Mar-06*********
+ver 1.0.9
+Axle to be eliminated integer conversion issue fixed
+
+***********2023-May-16*********
+ver 1.1.0
+Wagon Number Request and TLC Port Status Topic Added
+
+***********2023-Sep-09*********
+ver 1.1.1
+Various TLC Commands and Mqtt Topics are implemented.
+ 
+***********2023-Sep-09*********
+ver 1.1.2
+Post Version Request functions added.
+
+***********2023-Sep-11*********
+ver 1.1.3
+Code Cleaned up and Few Bug Fixes
+
+***********2023-Sep-12*********
+ver 1.1.4
+Wagon Start & End Date Time Issue Fixed
+
+***********2023-Sep-15*********
+ver 1.1.5
+Output Status Control issue is fixed
+
+***********2023-Sep-21*********
+ver 1.1.6
+Output Status Read Changed and Score Availablity Command Added
+
+***********2023-Sep-27*********
+ver 1.1.7
+Status Control Issue is fixed 
+
+***********2023-Sep-28*********
+ver 1.1.8
+#Added
+Serial Communication Exception Added
+#Fixed
+Status Control Page Negative Weighment Issue is fixed
+TLC Init Command Issue is fixed 
+
+***********2023-Oct-04*********
+ver 1.1.9
+#Added
+Mqtt ScoreBoard Topic Added, Error Status Topic Added
+Few Bugs Fixed
+
+***********2023-Oct-10*********
+ver 1.2.0
+#Added
+Code Clean Up and Status Query added in TLC Monitor Function
+
+***********2023-Oct-10*********
+ver 1.2.1
+#BugFix
+TLC_Monitor Funtion issue is fixed
+
+***********2023-Oct-20*********
+ver 1.2.2
+#BugFix
+Loco Count issue is Fixed
+
+
+***********2023-Oct-28*********
+ver 1.2.3
+#BugFix
+WagonWeignment Resolution LSB Changed from 200 to 20
+Weigment Messages Updated
+
+
+
